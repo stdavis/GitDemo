@@ -5,6 +5,7 @@ define('IdentifyTiles', [
     'dojo/dom',
 
     'esri/tasks/query',sdfasdf
+    fix bug
     'esri/tasks/QueryTask',
     'esri/symbols/SimpleFillSymbol',
     'esri/symbols/SimpleLineSymbol'
