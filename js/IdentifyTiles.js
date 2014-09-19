@@ -4,7 +4,7 @@ define('IdentifyTiles', [
     'dojo/_base/Color',
     'dojo/dom',
 
-    'esri/tasks/query',
+    'esri/tasks/query',sdfasdf
     'esri/tasks/QueryTask',
     'esri/symbols/SimpleFillSymbol',
     'esri/symbols/SimpleLineSymbol'

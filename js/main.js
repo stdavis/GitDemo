@@ -2,13 +2,12 @@ require([
   'esri/map',
   'esri/layers/ArcGISImageServiceLayer',
   'esri/dijit/Geocoder',
+  'esri/import',
 
   'dojo/query',
   'dojo/on',
 
-  'IdentifyTiles',
-
-  'dojo/domReady!'
+  'ady!'
 ], function (
   Map,
   ArcGISImageServiceLayer,
